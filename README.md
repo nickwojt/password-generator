@@ -4,4 +4,4 @@ In this project I used VSCode to add code to the existing script.js file. I crea
 
 Link to deployed page: https://nickwojt.github.io/password-generator/
 
-![Project](./Password Generator.png "Completed Project")
+![Project](./generator.png "Completed Project")
